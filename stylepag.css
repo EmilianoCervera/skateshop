@@ -1,0 +1,23 @@
+.carrousel1{
+    padding:auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width:500px;
+    border: solid 2px rgb(68, 68, 58);
+    background-color: rgb(206, 158, 55);
+}
+
+.parrafo{
+    align-items:flex-start;
+}
+body{
+    background-color: rgb(58, 88, 53);
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.articulos{
+    align-items: center;
+    
+}
