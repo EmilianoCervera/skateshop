@@ -33,3 +33,11 @@ body{
 .centrar{
     text-align: center;
 }
+.container1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    text-align: center;
+    text-decoration: none;
+}
